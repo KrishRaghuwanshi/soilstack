@@ -245,7 +245,3 @@ EXPO_PUBLIC_SUPABASE_ANON_KEY=your_anon_key
 - [ ] Expansion to other soil carbon and land-based climate interventions
 
 ---
-
-## License
-
-Private / prototype. Not licensed for production use without permission.

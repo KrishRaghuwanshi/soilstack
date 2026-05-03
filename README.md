@@ -229,19 +229,3 @@ Copy `.env` and fill in your Supabase credentials when connecting the live backe
 EXPO_PUBLIC_SUPABASE_URL=your_supabase_url
 EXPO_PUBLIC_SUPABASE_ANON_KEY=your_anon_key
 ```
-
----
-
-## Roadmap
-
-- [ ] Claude Vision API integration for automated biochar scoring
-- [ ] Live Supabase backend (replace mock stores)
-- [ ] Google Earth Engine / FIRMS satellite pipeline
-- [ ] Real UPI / M-Pesa payment disbursement
-- [ ] Verra / Gold Standard carbon registry integration
-- [ ] Farmer dispute and appeal flow
-- [ ] Multi-language support (Hindi, Punjabi)
-- [ ] Pilot with real farmers in Punjab / Haryana
-- [ ] Expansion to other soil carbon and land-based climate interventions
-
----
